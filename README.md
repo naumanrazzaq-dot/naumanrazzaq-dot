@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently working on<br>Building a strong foundation in Software Engineering and practicing logic building through C++ projects.<br>​I’m looking to collaborate on<br>Open-source C++ projects or beginner-friendly data science repositories.<br>​I’m looking for help with<br>Advanced Data Structures and mastering complex algorithms in C++.<br>​I’m currently learning<br>Data Analysis, Mobile App Development, and preparing for future studies in Germany.<br>​Ask me about<br>C++ basics, semester planning, or how to manage studies alongside investment goals.<br>
+I’m currently working on<br>Building a strong foundation in Software Engineering and practicing logic building through C++ projects.<br>​I’m looking to collaborate on<br>Open-source C++ projects or beginner-friendly data science repositories.<br>​I’m looking for help with<br>Advanced Data Structures and mastering complex algorithms in C++.<br>​I’m currently learning<br>Data Analysis, Mobile App Development<br>​Ask me about<br>C++ basics, semester planning, or how to manage studies alongside investment goals.<br>
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/nauman-razzaq-13492039b/]) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:maliknomigep@gmail.com) 
 
