@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1180 610" width="100%" height="100%" style="background:#0A101F; font-family: monospace;">
+  <rect x="10" y="10" width="1160" height="590" rx="12" fill="#0D1117" stroke="#22D3EE" stroke-width="2"/>
+  <path d="M 10 22 C 10 15 15 10 22 10 L 1158 10 C 1165 10 1170 15 1170 22 L 1170 45 L 10 45 Z" fill="#161B22"/>
+  <circle cx="35" cy="27" r="6" fill="#FF5F56"/>
+  <circle cx="55" cy="27" r="6" fill="#FFBD2E"/>
+  <circle cx="75" cy="27" r="6" fill="#27C93F"/>
+  <text x="100" y="32" fill="#94A3B8" font-size="14">profile.sh — live</text>
+
+  <rect x="30" y="65" width="420" height="510" rx="8" fill="#0A101F" stroke="#1E293B"/>
+  <text x="45" y="90" fill="#22D3EE" font-size="12" letter-spacing="2">VISUAL.MAP</text>
+
+  <g transform="translate(240,300)">
+    <circle r="110" fill="none" stroke="#A78BFA" stroke-width="2" stroke-dasharray="12, 8">
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="20s" repeatCount="indefinite"/>
+    </circle>
+    <text x="-65" y="25" fill="#22D3EE" font-size="80" font-weight="bold" font-family="monospace">
+      &lt;&gt;
+      <animate attributeName="opacity" values="1;0.3;1" dur="2s" repeatCount="indefinite" />
+    </text>
+    <circle cx="-80" cy="-60" r="3" fill="#10B981"><animate attributeName="opacity" values="0.2;1;0.2" dur="1.5s" repeatCount="indefinite"/></circle>
+    <circle cx="90" cy="50" r="4" fill="#22D3EE"><animate attributeName="opacity" values="1;0.1;1" dur="2.3s" repeatCount="indefinite"/></circle>
+    <circle cx="40" cy="-90" r="3" fill="#A78BFA"><animate attributeName="opacity" values="0.4;1;0.4" dur="1.8s" repeatCount="indefinite"/></circle>
+    <circle cx="-50" cy="80" r="2.5" fill="#38BDF8"><animate attributeName="opacity" values="0.9;0.2;0.9" dur="2.8s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <g transform="translate(480, 80)">
+    <rect x="0" y="0" width="70" height="22" rx="11" fill="#EF4444" fill-opacity="0.2"/>
+    <circle cx="15" cy="11" r="4" fill="#EF4444">
+      <animate attributeName="opacity" values="1;0.2;1" dur="1s" repeatCount="indefinite"/>
+    </circle>
+    <text x="27" y="15" fill="#EF4444" font-size="11" font-weight="bold">LIVE</text>
+    
+    <rect x="85" y="0" width="160" height="22" rx="11" fill="#22D3EE" fill-opacity="0.1"/>
+    <text x="97" y="15" fill="#22D3EE" font-size="12">naumanrazzaq.connect@</text>
+
+    <text x="0" y="60" fill="#22D3EE" font-size="14" font-weight="bold">SYSTEM.INFO</text>
+    <text x="0" y="100" fill="#94A3B8" font-size="14">Subject ........................ <tspan fill="#F8FAFC">Muhammad Nauman</tspan></text>
+    <text x="0" y="135" fill="#94A3B8" font-size="14">Role ........................... <tspan fill="#F8FAFC">Software Engineering Student</tspan></text>
+    <text x="0" y="170" fill="#94A3B8" font-size="14">Origin ......................... <tspan fill="#F8FAFC">Lahore, Pakistan</tspan></text>
+    <text x="0" y="205" fill="#94A3B8" font-size="14">Education ...................... <tspan fill="#F8FAFC">B.S. Software Engineering @ UMT</tspan></text>
+    <text x="0" y="240" fill="#94A3B8" font-size="14">Status ......................... <tspan fill="#10B981">Practicing C++ &amp; Core DSA</tspan></text>
+    <text x="0" y="275" fill="#94A3B8" font-size="14">ToolChain ...................... <tspan fill="#A78BFA">VS Code, Git, GitHub, C++</tspan></text>
+
+    <text x="0" y="325" fill="#22D3EE" font-size="14" font-weight="bold">CORE.LANGUAGES</text>
+    <text x="0" y="360" fill="#94A3B8" font-size="14">Languages ...................... <tspan fill="#F8FAFC">C++, C, HTML5, CSS3</tspan></text>
+    <text x="0" y="395" fill="#94A3B8" font-size="14">Focus Areas .................... <tspan fill="#F8FAFC">OOP, Data Structures, Algorithms</tspan></text>
+
+    <text x="0" y="445" fill="#22D3EE" font-size="14" font-weight="bold">CONTACT</text>
+    <text x="0" y="480" fill="#94A3B8" font-size="14">Mail ........................... <tspan fill="#38BDF8">maliknomigep@gmail.com</tspan></text>
+  </g>
+</svg>
