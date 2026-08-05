@@ -1,9 +1,9 @@
-<!-- CYBERPUNK TERMINAL BANNER -->
+<!-- CYBERPUNK VECTOR MORPHING BANNER -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="banner-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="banner-light.svg">
-    <img alt="Muhammad Nauman" src="banner-dark.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="banner-dark.svg?v=4">
+    <source media="(prefers-color-scheme: light)" srcset="banner-light.svg?v=4">
+    <img alt="Muhammad Nauman" src="banner-dark.svg?v=4" width="100%">
   </picture>
 </div>
 
@@ -12,6 +12,13 @@
 <!-- STREAK STATS CARD -->
 <div align="center">
   <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=naumanrazzaq-dot&theme=dark&hide_border=true&background=0A101F&ring=22D3EE&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE" alt="Nauman's Streak" />
+</div>
+
+<br/>
+
+<!-- LATE NIGHT DEBUGGING ANIMATION SECTION -->
+<div align="center">
+  <img src="study-animation.svg" width="100%" alt="Late Night Coding & Study" />
 </div>
 
 <br/>
