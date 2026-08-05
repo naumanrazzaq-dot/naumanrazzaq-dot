@@ -1,22 +1,22 @@
-<!-- CYBERPUNK POINT-CLOUD BANNER (Cache-Force Update v2) -->
+<!-- CYBERPUNK POINT-CLOUD BANNER -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/naumanrazzaq-dot/naumanrazzaq-dot/main/banner-dark.svg?v=2">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/naumanrazzaq-dot/naumanrazzaq-dot/main/banner-light.svg?v=2">
-    <img alt="Muhammad Nauman" src="https://raw.githubusercontent.com/naumanrazzaq-dot/naumanrazzaq-dot/main/banner-dark.svg?v=2" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/naumanrazzaq-dot/naumanrazzaq-dot/main/banner-dark.svg?v=3">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/naumanrazzaq-dot/naumanrazzaq-dot/main/banner-light.svg?v=3">
+    <img alt="Muhammad Nauman" src="https://raw.githubusercontent.com/naumanrazzaq-dot/naumanrazzaq-dot/main/banner-dark.svg?v=3" width="100%">
   </picture>
 </div>
 
 <br/>
 
-<!-- WORKING STREAK STATS CARD (Live updated from pichli chat) -->
+<!-- STREAK STATS CARD -->
 <div align="center">
   <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=naumanrazzaq-dot&theme=dark&hide_border=true&background=0A101F&ring=22D3EE&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE" alt="Nauman's Streak" />
 </div>
 
 <br/>
 
-<!-- CONTRIBUTION SNAKE ANIMATION (Pichli chat wala) -->
+<!-- CONTRIBUTION SNAKE ANIMATION -->
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/naumanrazzaq-dot/naumanrazzaq-dot/output/github-snake-dark.svg" />
