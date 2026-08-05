@@ -1,4 +1,4 @@
-<!-- TERMINAL BANNER WITH USER PHOTO & ANIMATION -->
+<!-- CYBERPUNK DITHERED TERMINAL BANNER -->
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/naumanrazzaq-dot/naumanrazzaq-dot/main/dark.svg">
@@ -9,7 +9,7 @@
 
 <br/>
 
-<!-- FIXED WORKING STREAK STATS CARD -->
+<!-- WORKING STREAK STATS CARD -->
 <div align="center">
   <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=naumanrazzaq-dot&theme=dark&hide_border=true&background=0A101F&ring=22D3EE&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE" alt="Nauman's Streak" />
 </div>
